@@ -1,7 +1,7 @@
 ﻿<Patch>
 
 <Operation Class="PatchOperationReplace">
-	<xpath>/ThingDefs/ThingDef[defName = "HydroponicsBasin"]/building/defaultPlantToGrow</xpath>
+	<xpath>/Defs/ThingDef[defName = "HydroponicsBasin"]/building/defaultPlantToGrow</xpath>
 	<value>
 		<defaultPlantToGrow>PlantRice</defaultPlantToGrow>
 	</value>
